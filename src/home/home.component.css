@@ -1,0 +1,22 @@
+.parent
+{
+  background-color: #1abc9ce6;
+}
+.divider {
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.line {
+  width: 80px;
+  height: 4px;
+  background-color: white;}
+
+.star {
+  margin: 0 10px;
+  color: white;
+  font-size: 30px;
+}
